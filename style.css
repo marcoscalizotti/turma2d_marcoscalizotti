@@ -16,3 +16,9 @@ h2 {text-align: right;
 h3 {border-color: red; 
 border-style: solid;
 border-width: 5px;}
+
+#parte2 {background-color: bisque;
+}
+
+#parte1 {background-color: blueviolet;
+}
